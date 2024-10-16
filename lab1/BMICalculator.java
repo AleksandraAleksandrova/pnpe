@@ -2,7 +2,7 @@ package lab1;
 
 import java.util.Scanner;
 
-// Exxercise: http://javac.bg/?p=56
+// Exercise: http://javac.bg/?p=56
 
 public class BMICalculator {
 
