@@ -1,6 +1,4 @@
-package lab44;
-
-import static lab44.Building.sc;
+package lab4.lab44;
 
 public class House extends Building{
     private int floors;

@@ -1,4 +1,4 @@
-package lab44;
+package lab4.lab44;
 
 public class ZeroOrNegativeValue extends Exception{
     @Override
